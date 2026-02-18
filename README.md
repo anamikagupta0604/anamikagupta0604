@@ -28,10 +28,13 @@
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anamikagupta0604&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anamikagupta0604&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamikagupta0604&layout=compact&theme=github_dark" height="160"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamikagupta0604&layout=compact&theme=tokyonight)
 
 
 ---
