@@ -31,8 +31,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anamikagupta0604&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anamikagupta0604&layout=compact&langs_count=8&theme=github_dark" height="165"/>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=anamikagupta0604" />
+
+  <img src="https://stats.dooboo.io/api/github-langs?login=anamikagupta0604" />
+
 </p>
 
 
