@@ -29,18 +29,13 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anamikagupta0604&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=1800"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamikagupta0604&layout=compact&langs_count=8&theme=github_dark&cache_seconds=1800"
-    alt="Top Languages"
-    height="165"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anamikagupta0604&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anamikagupta0604&layout=compact&langs_count=8&theme=github_dark" height="165"/>
 </p>
+
+
 
 
 
